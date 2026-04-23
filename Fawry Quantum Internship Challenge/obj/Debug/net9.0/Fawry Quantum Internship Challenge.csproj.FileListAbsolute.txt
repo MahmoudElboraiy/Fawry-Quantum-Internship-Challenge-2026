@@ -1,0 +1,14 @@
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\bin\Debug\net9.0\Fawry Quantum Internship Challenge.exe
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\bin\Debug\net9.0\Fawry Quantum Internship Challenge.deps.json
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\bin\Debug\net9.0\Fawry Quantum Internship Challenge.runtimeconfig.json
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\bin\Debug\net9.0\Fawry Quantum Internship Challenge.dll
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\bin\Debug\net9.0\Fawry Quantum Internship Challenge.pdb
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\Fawry Quantum Internship Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\Fawry Quantum Internship Challenge.AssemblyInfoInputs.cache
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\Fawry Quantum Internship Challenge.AssemblyInfo.cs
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\Fawry Quantum Internship Challenge.csproj.CoreCompileInputs.cache
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\Fawry Quantum Internship Challenge.dll
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\refint\Fawry Quantum Internship Challenge.dll
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\Fawry Quantum Internship Challenge.pdb
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\Fawry Quantum Internship Challenge.genruntimeconfig.cache
+C:\elboraiy\Fawry\Fawry Quantum Internship Challenge\Fawry Quantum Internship Challenge\obj\Debug\net9.0\ref\Fawry Quantum Internship Challenge.dll
